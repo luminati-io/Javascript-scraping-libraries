@@ -6,7 +6,9 @@ Explore the best JavaScript web scraping libraries, their key features, and a ha
 
 ## What Is a JavaScript Web Scraping Library
 
-A JavaScript web scraping library helps extract data from online pages by sending HTTP requests, parsing HTML, and rendering JavaScript-based content. You can learn more about JavaScript and node.js scraping [here](https://brightdata.com/blog/how-tos/web-scraping-with-node-js).
+A JavaScript web scraping library helps extract data from online pages by sending [HTTP requests](https://brightdata.com/glossary/http-request), [parsing HTML](https://brightdata.com/blog/web-data/best-html-parsers), and rendering JavaScript-based content. 
+
+You can learn more about JavaScript and node.js scraping [here](https://brightdata.com/blog/how-tos/web-scraping-with-node-js).
 
 ## Aspects to Consider
 
@@ -20,7 +22,7 @@ A JavaScript web scraping library helps extract data from online pages by sendin
 
 ## Top 6 JavaScript Web Scraping Libraries
 
-### 1. Playwright
+### 1. [Playwright](https://playwright.dev/)
 
 A powerful headless browser library for automated testing and dynamic website scraping.
 
@@ -31,7 +33,7 @@ A powerful headless browser library for automated testing and dynamic website sc
 - **Pros**: Multi-browser support, advanced features
 - **Cons**: Resource-heavy, steep learning curve
 
-### 2. Cheerio
+### 2. [Cheerio](https://cheerio.js.org/)
 
 A fast, flexible HTML/XML parser with a jQuery-like API.
 
@@ -44,7 +46,7 @@ A fast, flexible HTML/XML parser with a jQuery-like API.
 
 > 💡 Learn more about [**web scraping with Cheerio**](https://brightdata.com/blog/how-tos/cheerio-npm-web-scraping).
 
-### 3. Axios
+### 3. [Axios](https://github.com/axios/axios)
 
 Popular for making HTTP requests, ideal for retrieving HTML data.
 
@@ -57,7 +59,7 @@ Popular for making HTTP requests, ideal for retrieving HTML data.
 
 > 💡 Learn more about [**web scraping with Axios**](https://brightdata.com/blog/how-tos/cheerio-npm-web-scraping).
 
-### 4. Puppeteer
+### 4. [Puppeteer](https://pptr.dev/)
 
 A library for browser automation and dynamic content scraping.
 
@@ -68,7 +70,7 @@ A library for browser automation and dynamic content scraping.
 - **Pros**: Supports dynamic content, CLI for browser download
 - **Cons**: No Safari support, limited automation API
 
-### 5. Crawlee
+### 5. [Crawlee](https://crawlee.dev/)
 
 A framework for advanced crawling and scraping.
 
@@ -81,7 +83,7 @@ A framework for advanced crawling and scraping.
 
 > 💡 Learn more about [**web scraping with Crawlee**](https://brightdata.com/blog/web-data/web-scraping-with-crawlee).
 
-### 6. node-curl-impersonate
+### 6. [node-curl-impersonate](https://github.com/SwapnilSoni1999/node-libcurl-impersonate)
 
 HTTP client with browser impersonation for bypassing anti-bot systems.
 
