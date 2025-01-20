@@ -33,6 +33,8 @@ A powerful headless browser library for automated testing and dynamic website sc
 - **Pros**: Multi-browser support, advanced features
 - **Cons**: Resource-heavy, steep learning curve
 
+> 💡 Learn more about [**web scraping with Playwright and Python**](https://brightdata.com/blog/how-tos/playwright-web-scraping).
+
 ### 2. [Cheerio](https://cheerio.js.org/)
 
 A fast, flexible HTML/XML parser with a jQuery-like API.
@@ -69,6 +71,8 @@ A library for browser automation and dynamic content scraping.
 - **Weekly downloads**: ~3.1M
 - **Pros**: Supports dynamic content, CLI for browser download
 - **Cons**: No Safari support, limited automation API
+
+> 💡 Learn more about [**web scraping with Puppeteer and Python**](https://brightdata.com/blog/how-tos/web-scraping-puppeteer).
 
 ### 5. [Crawlee](https://crawlee.dev/)
 
