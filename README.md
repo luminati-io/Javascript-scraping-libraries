@@ -108,7 +108,9 @@ HTTP client with browser impersonation for bypassing anti-bot systems.
 
 ## Conclusion
 
-These libraries help with web scraping in Node.js but face challenges like IP blocks and CAPTCHAs. Bright Data offers solutions like [Advanced Proxy Services](https://brightdata.com/proxy-types) and [Web Scraper APIs](https://brightdata.com/products/web-scraper) to overcome these issues. Some of the most popular Web Scraper APIs include:
+These libraries help with web scraping in Node.js but face challenges like IP blocks and CAPTCHAs. Bright Data offers solutions like [Advanced Proxy Services](https://brightdata.com/proxy-types) and [Web Scraper APIs](https://brightdata.com/products/web-scraper) to overcome these issues. 
+
+Some of the most popular Web Scraper APIs include:
 
 - [Instagram Scraper](https://brightdata.com/products/web-scraper/instagram)  
 - [LinkedIn Scraper](https://brightdata.com/products/web-scraper/linkedin)  
